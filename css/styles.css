@@ -265,6 +265,24 @@ body {
   flex-shrink: 0;
 }
 
+.projects.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.project {
+  border: 1px solid var(--cornflower, #e7e9fc);
+  background: var(--white, #fff);
+  display: flex;
+  width: 360px;
+  height: 420px;
+  padding-bottom: 0px;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
 .studio-footer {
   color: var(--cloud, #f4f4fd);
 }
