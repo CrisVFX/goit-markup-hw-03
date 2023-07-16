@@ -221,16 +221,13 @@ body {
 .section {
   width: auto;
   background: #fff;
-}
-
-.section-title {
-  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .section .container {
   width: auto;
   flex-shrink: 0;
-  background: var(--cloud, #f4f4fd);
+  background: background: #FFF;
   align-items: center;
 }
 
