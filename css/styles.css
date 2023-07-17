@@ -47,11 +47,6 @@ body {
   color: var(--iris, #4d5ae5);
 }
 
-.contacts-menu.list {
-  margin-left: auto;
-  margin-right: 156px;
-}
-
 .button {
   border-color: transparent;
   font-family: inherit;
